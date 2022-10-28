@@ -1,4 +1,4 @@
-# HSQLI
+# HQLI
 Check SQL Injection in Headers
 
 __Install__
